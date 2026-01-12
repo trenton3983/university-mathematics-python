@@ -2,6 +2,8 @@ This is the GitHub homepage for my book:
 
 **Exploring University Mathematics with Python** by Siri Chongchitnan (Springer, 2023).
 
+![textbook cover](university-mathematics-python.jpg)
+
 Errata since publication are collected in errata.md
 
 ### Using the code
