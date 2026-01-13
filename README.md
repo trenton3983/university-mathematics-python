@@ -1,6 +1,8 @@
-This is the GitHub homepage for my book:
+This is a fork of the repo for the book:
 
 **Exploring University Mathematics with Python** by Siri Chongchitnan (Springer, 2023).
+
+This fork contains code not included in the main repo.
 
 ![textbook cover](university-mathematics-python.jpg)
 
