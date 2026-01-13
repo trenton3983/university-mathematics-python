@@ -14,3 +14,7 @@
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Movies
+*.avi
+*.gif
